@@ -1,2 +1,2 @@
-# team_gaap_project1
-Team_GAAP_Project1 Repo
+# Team_GAAP_Project_1
+Team GAAP (Grace, Austin, Ashby, Paul)
