@@ -1,3 +1,4 @@
+
 # team_gaap_project1
 
   This project focuses on the NBA and data related to that. Specifically, trying to answer the following questions: the impact of total number of missing players per team per season and its relation to team success, how players' salary impact attendance to games, and lastly, possible correlations regarding performance to one's age and amounts of games played. 
@@ -7,3 +8,4 @@
 
 
 There are a lot of different statistics that are tracked within the NBA. Looking at the various correlations allows us to determine what types of player statistics might be related when approaching player success. This was also an exploration into the overall games played by NBA players and how that has impacted minutes as well as the average age of players over the course of 20+ seasons. The code file for this can be found in nba_analysis.ipynb -- Paul Ji.
+
